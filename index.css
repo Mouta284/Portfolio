@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,100..900;1,100..900&family=Libre+Baskerville:ital,wght@0,400..700;1,400..700&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+hr {
+    margin: 0;
+}
+
+main {
+    font-family: "Archivo", serif;
+
+}
+
+main a {
+    text-decoration: underline;
+}
+
+main.badges {
+    font-family: 'Archivo', sans-serif;
+}
+
+#csocket-content{
+    font-family: "Work Sans", serif;
+}
+
+#ssbymouta-content{
+    font-family: "Libre Baskerville", serif;
+}
+
+#moutalogo{
+    width: 8rem;
+    margin: 0;
+}
+
+#ssbymouta-print {
+    width: 40rem;
+}
+
+#backtop {
+    display: none;
+}
+
+#mouta-face {
+    border-radius: 50%;
+    width: 10rem;
+    height: 10rem;
+    object-fit: cover;
+    border: 3px solid #000000;
+}
